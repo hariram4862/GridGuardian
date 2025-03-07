@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "809155453829",
+    "firebase_url": "https://gridguardian-ce288-default-rtdb.firebaseio.com",
+    "project_id": "gridguardian-ce288",
+    "storage_bucket": "gridguardian-ce288.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809155453829:android:5ed2a09d2d32776ac99aec",
+        "android_client_info": {
+          "package_name": "com.example.gridguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs72-5a9vXQAabHrYfS8cv4Zm0woUZcus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
